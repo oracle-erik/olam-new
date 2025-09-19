@@ -1,5 +1,5 @@
 ---
-- project_name: OLAM Sample Project
+- project_name: OLAM New
 - playbook: playbook.yml
 - inventory:
   - name: Linux
