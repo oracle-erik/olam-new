@@ -1,8 +1,0 @@
----
-- project_name: OLAM new
-- playbook: playbook.yml
-- inventory:
-  - name: Linux
-    host_filter: 10.0.34.212
-  - name: Windows
-    host_filter: 10.0.34.153
